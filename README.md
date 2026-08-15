@@ -12,7 +12,9 @@ Projeto desenvolvido durante meus estudos no **DevClub**, com o objetivo de prat
 
 ## Preview
 
-<img src="./assets." width="700px">
+<img src="captura1.png" width="700px">
+<img src="captura2.png" width="700px">
+<img src="capura3.png" width="700px">
 
 ## O que aprendi
 
