@@ -138,3 +138,12 @@ a:active {
         display: block;
     }
 }
+
+@media screen and (min-width: 1000px) {
+    img {
+        position: absolute;
+        top: 20%;
+        right: 40%;
+    }
+
+}
