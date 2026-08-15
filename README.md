@@ -45,11 +45,11 @@ O projeto foi criado com o objetivo de praticar estruturação de páginas com H
 ### Responsividade
 
 <p align="center">
-  <img src="./captura2.png" width="400px" alt="Easy Shopping versão responsiva">
+  <img src="./captura2.png" width="300px" alt="Easy Shopping versão responsiva">
 </p>
 
 <p align="center">
-  <img src="./capura3.png" width="400px" alt="Easy Shopping versão mobile">
+  <img src="./capura3.png" width="800px" alt="Easy Shopping versão mobile">
 </p>
 
 ## Responsividade
